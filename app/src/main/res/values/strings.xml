@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moviez</string>
+    <string name="api_key">ea51ce0d322832af0a0b384aabfc3054</string>
+    <string name="upcoming_movie_header">Upcoming</string>
+    <string name="now_playing_movie_header">Now Playing</string>
+    <string name="data_corrupted">Data corrupted, try again later</string>
+    <string name="internet_not_availalble">Please check internet connection</string>
+</resources>
